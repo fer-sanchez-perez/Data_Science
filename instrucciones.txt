@@ -1,0 +1,10 @@
+1.- Instalar pandas en su proyecto de jupyter
+2.- Actualizar requirements.txt
+3.- Bajar su dataset(realstate,pizzas,stock market)
+4.- Cargar el dataset en su repo de jupyter
+5.- Trackear en git
+6.- Responder pregunta
+	
+	¿Cual es el precio promedio de renta en sao paolo?
+	¿Cual es el precio promedio de una acción al cerrar su primer dia en el mercado de valores?
+	¿Cual es el ticket promedio de una pizzeria en USA?
